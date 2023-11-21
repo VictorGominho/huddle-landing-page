@@ -1,6 +1,6 @@
-     Este projeto é minha solução pra o desafio [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
+Este projeto é minha solução pra o desafio [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0).
 
-     É um desafio simples, mas uma boa prática pra os conceitos e recursos de HTML e CSS.
+É um desafio simples, mas uma boa prática pra os conceitos e recursos de HTML e CSS.
 
 
 - [Visão Geral](#visao-geral)
@@ -26,7 +26,7 @@ Para esta página, os usuários devem:
 
 ### Link pra página
 
-TD
+https://victorgominho.github.io/huddle-landing-page/
 
 ## Processo
 
