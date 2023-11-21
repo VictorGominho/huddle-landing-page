@@ -1,0 +1,45 @@
+@media(max-width: 750px) {
+     .huddle-logo {
+          width: 210px;
+     }
+
+     .container {
+          flex-direction: column;
+          align-items: center;
+          text-align: center;
+          margin: 0;
+     }
+
+     .container img {
+          width: 85%;
+          margin-bottom: 70px;
+     }
+
+     .container .hero {
+          margin: auto 120px;
+     }
+
+     .container .hero h1 {
+          font-size: 3rem;
+     }
+
+     .container .hero p {
+          font-size: 2rem;
+     }
+
+     .container .hero .btn-register {
+          align-self: center;
+          padding: 15px 110px;
+          margin-bottom: 65px;
+     }
+
+     .socials {
+          justify-content: center;
+          margin-right: 0;
+          margin-bottom: 50px;
+     }
+
+     .attribution {
+          font-size: 1.5rem;
+     }
+}

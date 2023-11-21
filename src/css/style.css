@@ -1,0 +1,117 @@
+html {
+     font-size: 62.5%;
+}
+
+body {
+     background: url(../images/bg-desktop.svg) no-repeat;
+     background-size: cover;
+     background-color: hsl(257, 40%, 49%);
+     display: flex;
+     flex-direction: column;
+     font-size: 1.6rem;
+     height: 100vh;
+}
+
+.huddle-logo {
+     margin: 30px 0 40px 55px;
+     width: 190px;
+}
+
+.container {
+     display: flex;
+     margin: auto 55px;
+}
+
+.container .hero {
+     font-family: 'Poppins', sans-serif;
+     color: #fff;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     margin: auto auto 13rem 7.5rem;
+
+     
+}
+
+.container img {
+     width: 54%;
+     height: 100%;
+}
+
+.container .hero h1 {
+     font-size: 3.5rem;
+     font-weight: 600;
+     margin-bottom: 20px;
+}
+
+.container .hero p {
+     font-family: 'Open Sans', sans-serif;
+     font-weight: 400;
+     margin-bottom: 28px;
+}
+
+.container .hero .btn-register {
+     font-weight: 400;
+     color: hsl(257, 40%, 49%);
+     padding: 15px 50px;
+     width: fit-content;
+     background-color: #fff;
+     border-radius: 50px;
+     transition: 0.3s;
+}
+
+.container .hero .btn-register:hover {
+     background-color: hsl(300, 69%, 71%);
+     color: #fff;
+}
+
+.socials {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 140px;
+    gap: 18px;
+}
+
+.socials a {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     color: #fff;
+     font-size: 2.5rem;
+     width: 45px;
+     height: 45px;
+     border: 1px solid #fff;
+     border-radius: 50%;
+     transition: 0.3s;
+}
+
+.socials a:hover {
+     color: hsl(300, 69%, 71%);
+     border-color: hsl(300, 69%, 71%);
+}
+
+.credit {
+     display: flex;
+     align-self: center;
+     align-items: flex-end;
+     height: 100%;
+}
+
+.attribution {
+     font-size: 1.1rem;
+     color: #fff;
+     margin-bottom: 15px;
+}
+
+.attribution a {
+     color: hsl(228, 45%, 44%);
+     background-color: #fff;
+     padding: 5px;
+     border-radius: 50px;
+     transition: 0.3s;
+}
+
+.attribution a:hover {
+     background-color: hsl(300, 69%, 71%);
+     color: #fff;
+}
